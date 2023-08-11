@@ -1,0 +1,92 @@
+02 Aug 2023 21:37:10,467 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 21:37:10,469 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 21:37:10,469 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 21:37:10,469 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 21:38:05,732 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 21:38:05,737 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 21:38:05,737 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 21:38:05,737 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 21:47:16,265 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 21:47:16,269 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 21:47:16,269 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 21:47:16,269 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 21:51:53,495 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 21:51:53,501 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 21:51:53,502 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 21:51:53,502 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 21:51:58,173 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02 Aug 2023 21:51:58,272 [main] INFO  SD_DSAlgoPortal.java - Pre Home Page Title is: Numpy Ninja
+02 Aug 2023 21:51:58,272 [main] INFO  SD_DSAlgoPortal.java - Check 2
+02 Aug 2023 21:51:58,272 [main] INFO  BaseClass.java - Capturing Screenshot - Pre-Home Page
+02 Aug 2023 21:52:20,867 [main] INFO  SD_LinkedListPage.java - User is at Introduction  Assesmentpage
+02 Aug 2023 21:52:21,003 [main] INFO  SD_LinkedListPage.java - User is at Creating Linked List page
+02 Aug 2023 21:52:21,064 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 21:52:21,098 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 21:52:21,441 [main] INFO  SD_ArrayPage.java - User is at Array using list page 
+02 Aug 2023 21:52:21,541 [main] INFO  SD_ArrayPage.java - User is at Practice Question Page
+02 Aug 2023 22:05:06,353 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 22:05:06,357 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 22:05:06,357 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 22:05:06,357 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 22:05:11,124 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02 Aug 2023 22:05:11,261 [main] INFO  SD_DSAlgoPortal.java - Pre Home Page Title is: Numpy Ninja
+02 Aug 2023 22:05:11,261 [main] INFO  SD_DSAlgoPortal.java - Check 2
+02 Aug 2023 22:05:11,262 [main] INFO  BaseClass.java - Capturing Screenshot - Pre-Home Page
+02 Aug 2023 22:05:13,878 [main] INFO  SD_LinkedListPage.java - User is at Introduction  Assesmentpage
+02 Aug 2023 22:05:14,024 [main] INFO  SD_LinkedListPage.java - User is at Creating Linked List page
+02 Aug 2023 22:05:14,070 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 22:05:14,116 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 22:05:14,602 [main] INFO  SD_ArrayPage.java - User is at Array using list page 
+02 Aug 2023 22:05:14,690 [main] INFO  SD_ArrayPage.java - User is at Practice Question Page
+02 Aug 2023 22:07:55,429 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 22:07:55,433 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 22:07:55,433 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 22:07:55,433 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 22:08:00,375 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02 Aug 2023 22:08:00,508 [main] INFO  SD_DSAlgoPortal.java - Pre Home Page Title is: Numpy Ninja
+02 Aug 2023 22:08:00,508 [main] INFO  SD_DSAlgoPortal.java - Check 2
+02 Aug 2023 22:08:00,508 [main] INFO  BaseClass.java - Capturing Screenshot - Pre-Home Page
+02 Aug 2023 22:08:16,596 [main] INFO  SD_LinkedListPage.java - User is at Introduction  Assesmentpage
+02 Aug 2023 22:08:16,793 [main] INFO  SD_LinkedListPage.java - User is at Creating Linked List page
+02 Aug 2023 22:08:16,871 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 22:08:16,919 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 22:08:17,514 [main] INFO  SD_ArrayPage.java - User is at Array using list page 
+02 Aug 2023 22:08:17,710 [main] INFO  SD_ArrayPage.java - User is at Practice Question Page
+02 Aug 2023 22:10:36,298 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 22:10:36,301 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 22:10:36,301 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 22:10:36,301 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 22:10:40,547 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02 Aug 2023 22:10:40,649 [main] INFO  SD_DSAlgoPortal.java - Pre Home Page Title is: Numpy Ninja
+02 Aug 2023 22:10:40,649 [main] INFO  SD_DSAlgoPortal.java - Check 2
+02 Aug 2023 22:10:40,649 [main] INFO  BaseClass.java - Capturing Screenshot - Pre-Home Page
+02 Aug 2023 22:11:48,526 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 22:11:48,529 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 22:11:48,529 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 22:11:48,529 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 22:11:52,488 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02 Aug 2023 22:11:52,579 [main] INFO  SD_DSAlgoPortal.java - Pre Home Page Title is: Numpy Ninja
+02 Aug 2023 22:11:52,579 [main] INFO  SD_DSAlgoPortal.java - Check 2
+02 Aug 2023 22:11:52,584 [main] INFO  SD_DSAlgoPortal.java - Check 3
+02 Aug 2023 22:11:55,256 [main] INFO  SD_HomePage.java - Registration
+02 Aug 2023 22:11:55,489 [main] INFO  SD_HomePage.java - Login
+02 Aug 2023 22:11:56,448 [main] INFO  SD_DataStructureIntro.java - Tittle before click GetStarted button below DSI:Registration
+02 Aug 2023 22:13:04,675 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Started ----------
+02 Aug 2023 22:13:04,675 [main] INFO  BaseClass.java - Browser Type is: Chrome
+02 Aug 2023 22:13:04,675 [main] INFO  BaseClass.java - Base URL is: https://dsportalapp.herokuapp.com/
+02 Aug 2023 22:13:04,675 [main] INFO  BaseClass.java - Screenshot Directory is: C://Users//Home//eclipse-workspace//DSAlgoBDD//src//test//resources//DSAlgoScreenShots//
+02 Aug 2023 22:13:09,357 [main] INFO  BaseClass.java - ---------- Base Class - SetUpDriver Completed ----------
+02 Aug 2023 22:13:09,497 [main] INFO  SD_DSAlgoPortal.java - Pre Home Page Title is: Numpy Ninja
+02 Aug 2023 22:13:09,497 [main] INFO  SD_DSAlgoPortal.java - Check 2
+02 Aug 2023 22:13:09,497 [main] INFO  SD_DSAlgoPortal.java - Check 3
+02 Aug 2023 22:13:12,420 [main] INFO  SD_HomePage.java - Registration
+02 Aug 2023 22:13:12,708 [main] INFO  SD_HomePage.java - Login
+02 Aug 2023 22:13:13,794 [main] INFO  SD_DataStructureIntro.java - Tittle before click GetStarted button below DSI:Registration
+02 Aug 2023 22:13:33,988 [main] INFO  SD_DataStructureIntro.java - Test Failed
+02 Aug 2023 22:13:34,036 [main] INFO  SD_DataStructureIntro.java - Current URL is https://dsportalapp.herokuapp.com/register
+02 Aug 2023 22:13:39,318 [main] INFO  SD_LinkedListPage.java - User is at Introduction  Assesmentpage
+02 Aug 2023 22:13:39,465 [main] INFO  SD_LinkedListPage.java - User is at Creating Linked List page
+02 Aug 2023 22:13:39,509 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 22:13:39,537 [main] INFO  SD_LinkedListPage.java - User is at Deletion page
+02 Aug 2023 22:13:40,081 [main] INFO  SD_ArrayPage.java - User is at Array using list page 
+02 Aug 2023 22:13:40,222 [main] INFO  SD_ArrayPage.java - User is at Practice Question Page
